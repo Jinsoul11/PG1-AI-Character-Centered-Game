@@ -35,6 +35,21 @@ PG1 是一次**实验，也是一个起点**。
 
 ---
 
+## 完整体验 Demo（Unity）
+
+本仓库以 **代码与设计文档** 为主，体积较大的 Unity 工程 / `.unitypackage` 放在网盘，便于直接导入体验。
+
+- **百度网盘：** https://pan.baidu.com/s/1jZ8HtlK3w71LvywWbnC0Jw?pwd=76ja  
+- **提取码：** `76ja`
+
+下载后用 Unity 导入对应 package（或按压缩包内说明打开工程）。建议使用与作者本地一致的 Unity 版本；具体版本以网盘说明或 package 内备注为准。
+
+> 本 Git 仓库**不是**完整可直接打开的 Unity 工程根目录。若仅 clone 本仓，可用于阅读与修改脚本/文档；要上手玩通 Demo，请使用上述网盘资源。
+
+第三方美术等资源许可见 [License/ASSETS.md](./License/ASSETS.md)（若已随工程提供）。
+
+---
+
 ## 如何参与
 
 现阶段我们并不以传统意义上的开源开发为主要目标。
@@ -97,7 +112,7 @@ PG1 只是 PG 系列的开始。
 ## 文档
 
 - [什么是PG?](./Documentation/PG路径设想.md)
-- [PG1的底线](./Documentation/PG1的底线.md)
+- [PG1的底线](./Documentation/PG1底线.md)
 - [PG1的设计方案](./Design/)
 - [共同创作规则](./Documentation/共同创作规则.md)
 
