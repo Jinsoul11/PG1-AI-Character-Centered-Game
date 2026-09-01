@@ -46,7 +46,7 @@ PG1 是一次**实验，也是一个起点**。
 
 > 本 Git 仓库**不是**完整可直接打开的 Unity 工程根目录。若仅 clone 本仓，可用于阅读与修改脚本/文档；要上手玩通 Demo，请使用上述网盘资源。
 
-第三方美术等资源许可见 [License/ASSETS.md](./License/ASSETS.md)（若已随工程提供）。
+第三方美术等资源许可见 [License/ASSETS.md](./License/ASSETS.md)。
 
 ---
 
