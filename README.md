@@ -103,7 +103,7 @@ PG1 只是 PG 系列的开始。
 
 ## License
 
-详见 [LICENSE](./LICENSE/)。
+详见 [LICENSE](./License/)。
 
 ---
 
