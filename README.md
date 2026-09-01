@@ -96,10 +96,10 @@ PG1 只是 PG 系列的开始。
 
 ## 文档
 
-- [什么是PG?](./Documentation/PG路径设想)
-- [PG1的底线](./Documentation/PG1的底线)
+- [什么是PG?](./Documentation/PG路径设想.md)
+- [PG1的底线](./Documentation/PG1的底线.md)
 - [PG1的设计方案](./Design/)
-- [共同创作规则](./Documentation/共同创作规则)
+- [共同创作规则](./Documentation/共同创作规则.md)
 
 ## License
 
