@@ -42,7 +42,7 @@ PG1 是一次**实验，也是一个起点**。
 - **百度网盘：** https://pan.baidu.com/s/1jZ8HtlK3w71LvywWbnC0Jw?pwd=76ja  
 - **提取码：** `76ja`
 
-下载后用 Unity 导入对应 package（或按压缩包内说明打开工程）。建议使用与作者本地一致的 Unity 版本；具体版本以网盘说明或 package 内备注为准。
+下载后用 Unity 导入对应 package。建议使用与作者本地一致的 Unity 版本；具体版本以网盘说明或 package 内备注为准。
 
 > 本 Git 仓库**不是**完整可直接打开的 Unity 工程根目录。若仅 clone 本仓，可用于阅读与修改脚本/文档；要上手玩通 Demo，请使用上述网盘资源。
 
